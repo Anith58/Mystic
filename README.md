@@ -176,7 +176,7 @@ form {
 
 
 <h1>Output</h1>
-<imgsrc ="Output.jpeg" width="200px">
+<img src ="Output.jpeg" width="200px">
 
     
  
